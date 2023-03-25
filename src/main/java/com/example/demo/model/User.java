@@ -1,6 +1,7 @@
 package com.example.demo.model;
 
 public class User {
+	
 	//skapar vilken information som ska finnas om användarna
 	private int id;
 	private int age;
