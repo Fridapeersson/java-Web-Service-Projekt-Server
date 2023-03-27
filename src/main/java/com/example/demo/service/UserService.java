@@ -12,8 +12,6 @@ import com.example.demo.model.User;
 @Service
 public class UserService {
 	
-	//TODO Kommentera koden mer 
-	
 	//Lista som sparar användare
 	private List<User> userList;
 	
@@ -53,4 +51,3 @@ public class UserService {
 		return optional;
 	}
 }
-
